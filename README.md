@@ -9,8 +9,13 @@ The purpose of this project is to understand how the outcomes of campaign relate
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-The data is analyzed in Excel workbook named "Kickstarter_Challenge" on the worksheet named "Theater Outcomes by Launch Date". The analysis result is demonstrated in the image and excel file below:
+The data is analyzed in Excel workbook named "Kickstarter_Challenge" on the worksheet named "Theater Outcomes by Launch Date". The analysis result is demonstrated in the image below:
 
+![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
+
+Original data and analysis is stored in the excel file below:
+
+[filename](path/to/filename.xlxs)
 
 ### Analysis of Outcomes Based on Goals
 
