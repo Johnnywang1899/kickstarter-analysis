@@ -41,7 +41,9 @@ The lower goal value is more likely to have a successful outcome. The likelihood
 
 - What are some limitations of this dataset?
 
-The majority of the events/data are collected from the US (73.8%), which may induce bias and inaccuracy as only a quarter of the total data come from the rest of the countries.
+The majority of the events/data are collected from the US (73.8%), which may induce bias and inaccuracy as only a quarter of the total data come from the rest of the countries. 
+  
+The likelihood of success for the range $35000 ~ $45000 does not have sufficient events so the result is not statistically significant.
 
 - What are some other possible tables and/or graphs that we could create?
 
